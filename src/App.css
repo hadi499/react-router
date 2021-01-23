@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: rgb(83, 83, 94);
+  color: white;
+}
+.nav-link {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.itemName {
+  color: rgb(86, 13, 221);
+}
